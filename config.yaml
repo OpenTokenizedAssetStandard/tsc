@@ -7,12 +7,21 @@ teams:
       - thelinuxfoundation
   - name: otas-maintainers
     maintainers:
-      - ryjones
-    members:
       - pv-suren
+    members:
       - pv-somyaditya
       - pv-sarvesh
 repositories:
+  - name: .github
+    teams:
+      lf-staff: maintain
+      otas-maintainers: maintain
+    visibility: public
+  - name: otas-template
+    teams:
+      lf-staff: maintain
+      otas-maintainers: maintain
+    visibility: public
   - name: tsc
     teams:
       lf-staff: maintain
