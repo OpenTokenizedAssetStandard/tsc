@@ -17,7 +17,7 @@ repositories:
       lf-staff: maintain
       otas-maintainers: maintain
     visibility: public
-  - name: otas-template
+  - name: community-specification-template
     teams:
       lf-staff: maintain
       otas-maintainers: maintain
