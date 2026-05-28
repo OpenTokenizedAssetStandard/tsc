@@ -24,3 +24,6 @@ Linux Foundation Decentralized Trust is committed to creating a safe and welcomi
 
 # Upcoming meetings
 - [Please check the calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/open-tokenized-asset-standard?view=week)
+
+# Previous and Future Meeting Agendas
+- Can be found in this folder: [https://github.com/OpenTokenizedAssetStandard/tsc/tree/main/community_meeting_agendas](https://github.com/OpenTokenizedAssetStandard/tsc/tree/main/community_meeting_agendas)
