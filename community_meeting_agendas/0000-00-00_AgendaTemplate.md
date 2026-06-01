@@ -9,6 +9,9 @@ Linux Foundation Decentralized Trust is committed to creating a safe and welcomi
 # Meeting Link
 - [Join us on Zoom](https://zoom-lfx.platform.linuxfoundation.org/meeting/91869019714?password=b750bc97-3e2f-41d5-90f5-60392e0442dd))
 
+# Attendance
+- 
+
 # Announcements
 - 
 
