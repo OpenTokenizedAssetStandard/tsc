@@ -22,6 +22,7 @@ Linux Foundation Decentralized Trust is committed to creating a safe and welcomi
 - GitHub Organization: [https://github.com/OpenTokenizedAssetStandard](https://github.com/OpenTokenizedAssetStandard)
 - Discord (the #opentokenizedassetstandard channel) : [https://discord.lfdecentralizedtrust.org/](https://discord.lfdecentralizedtrust.org/)
 - Community Meetings: OTAS Community Meetings occur every other week on Tuesdays at the following times: 8-8:30amPT / 11-11:30am ET / 17-17:30 CET. You can find the Community Meeting Calendar here: [https://zoom-lfx.platform.linuxfoundation.org/meetings/open-tokenized-asset-standard](https://zoom-lfx.platform.linuxfoundation.org/meetings/open-tokenized-asset-standard). You can find Community Meeting agendas here: [https://github.com/OpenTokenizedAssetStandard/tsc/tree/main/community_meeting_agendas](https://github.com/OpenTokenizedAssetStandard/tsc/tree/main/community_meeting_agendas). In addition, all previous sessions recordings can be found on that's day's meeting entry.
+- Subscribe to the OTAS Lab Mailing List here: [https://lists.lfdecentralizedtrust.org/g/OpenTokenizedAssetStandard](https://lists.lfdecentralizedtrust.org/g/OpenTokenizedAssetStandard)
   
 # Recordings
 - [Recordings, including transcript and chat, are available on the OTAS calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/open-tokenized-asset-standard?view=week)
