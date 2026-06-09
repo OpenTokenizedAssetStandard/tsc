@@ -12,6 +12,7 @@ teams:
     members:
       - pv-somyaditya
       - pv-sarvesh
+      - MukulKolpe
 repositories:
   - name: .github
     teams:
