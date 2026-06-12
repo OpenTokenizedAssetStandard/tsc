@@ -2,7 +2,7 @@
 Below is the list of [participants](5._Governance.md#1-roles) in OTAS, who have committed to the [Community Specification Contributor License Agreement](4._License.md).
 
 ## Participants
-- 
+- <Name>, <Organization>, <Date of Enrollment: DD/MM/YYYY>     
 
 ## How to enroll as a participant
 In order to enroll as a participant in the OTAS project, please submit a Pull Request to this [participants](#participants) file listing your name, organization, and date of enrollment, by following the steps described below. 
