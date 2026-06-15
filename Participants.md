@@ -1,5 +1,5 @@
 # Participants enrolled in the OTAS project
-Below is the list of [participants](5._Governance.md#1-roles) in OTAS, who have committed to the [Community Specification Contributor License Agreement](4._License.md).
+Below is the list of [participants](5._Governance.md#1-roles) in OTAS, who have committed to the [Community Specification Contributor License Agreement](4._License.md). You can find the instructions for adding yourself as a Participant below (see "How to enroll as a participant")
 
 ## Participants
 - Sean W. Bohan, The Linux Foundation (this is draft), Date of Enrollment: 06/15/2026
