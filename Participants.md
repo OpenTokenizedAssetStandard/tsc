@@ -3,6 +3,7 @@ Below is the list of [participants](5._Governance.md#1-roles) in OTAS, who have 
 
 ## Participants
 - Sean W. Bohan, The Linux Foundation (this is draft), Date of Enrollment: 06/15/2026
+- Sarvesh Naidu, OpenAssets (this is draft), Date of Enrollment: 06/15/2026
 
 ## How to enroll as a participant
 In order to enroll as a participant in the OTAS project, please submit a Pull Request to this [participants](#participants) file listing your name, organization, and date of enrollment, by following the steps described below. 
