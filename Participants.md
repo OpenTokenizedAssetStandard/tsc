@@ -1,5 +1,5 @@
 # Participants enrolled in the OTAS project
-Below is the list of [participants](5._Governance.md#1-roles) in OTAS, who have committed to the [Community Specification Contributor License Agreement](4._License.md). You can find the [instructions for adding yourself as a Participant below](https://github.com/OpenTokenizedAssetStandard/tsc/blob/main/Participants.md#how-to-enroll-as-a-participant).
+Below is the list of [participants](5._Governance.md#1-roles) in OTAS, who have committed to the [Community Specification Contributor License Agreement](1._Community_Specification_License-v1.md). You can find the [instructions for adding yourself as a Participant below](https://github.com/OpenTokenizedAssetStandard/tsc/blob/main/Participants.md#how-to-enroll-as-a-participant).
 
 ## Participants
 - Sarvesh Naidu, OpenAssets (this is draft), Date of Enrollment: 06/15/2026
