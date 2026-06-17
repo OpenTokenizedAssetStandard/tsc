@@ -2,7 +2,7 @@
 Below is the list of [participants](5._Governance.md#1-roles) in OTAS, who have committed to the [Community Specification Contributor License Agreement](1._Community_Specification_License-v1.md). You can find the [instructions for adding yourself as a Participant below](https://github.com/OpenTokenizedAssetStandard/tsc/blob/main/Participants.md#how-to-enroll-as-a-participant).
 
 ## Participants
-- Sarvesh Naidu, OpenAssets (this is draft), Date of Enrollment: 06/15/2026
+- Amit Sagar, Bank Of England , Date of Enrollment: 06/17/2026
 
 ## How to enroll as a participant
 In order to enroll as a participant in the OTAS project, please submit a Pull Request to this [participants](#participants) file listing your name, organization, and date of enrollment, by following the steps described below. 
