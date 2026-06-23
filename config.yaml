@@ -13,6 +13,7 @@ teams:
       - pv-somyaditya
       - pv-sarvesh
       - MukulKolpe
+      - armaanarya
 repositories:
   - name: .github
     teams:
