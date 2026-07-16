@@ -30,3 +30,8 @@ repositories:
       lf-staff: maintain
       otas-maintainers: maintain
     visibility: public
+  - name: whitepaper
+    teams:
+      lf-staff: maintain
+      otas-maintainers: maintain
+    visibility: public
