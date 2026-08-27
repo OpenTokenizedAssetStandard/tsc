@@ -5,7 +5,7 @@ Below is the list of [participants](5._Governance.md#1-roles) in OTAS, who have 
 - Amit Sagar, Bank Of England , Date of Enrollment: 06/17/2026
 - Armaan Arya, OpenAssets , Date of Enrollment: 06/17/2026
 - Michael Santore, Block Skunk Inc. , Date of Enrollment: 07/17/2026
-
+- Terence Juhe,Finux Labs, Date of Enrollment: 08/16/2026
 
 ## How to enroll as a participant
 In order to enroll as a participant in the OTAS project, please submit a Pull Request to this [participants](#participants) file listing your name, organization, and date of enrollment, by following the steps described below. 
