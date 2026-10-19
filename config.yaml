@@ -8,10 +8,10 @@ teams:
       - thelinuxfoundation
   - name: otas-maintainers
     maintainers:
-      - pv-suren
+      - oa-suren
     members:
       - pv-somyaditya
-      - pv-sarvesh
+      - oa-sarvesh
       - MukulKolpe
       - armaanarya
 repositories:
@@ -31,6 +31,11 @@ repositories:
       otas-maintainers: maintain
     visibility: public
   - name: whitepaper
+    teams:
+      lf-staff: maintain
+      otas-maintainers: maintain
+    visibility: public
+  - name: cross-rail-dvp
     teams:
       lf-staff: maintain
       otas-maintainers: maintain
