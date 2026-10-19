@@ -35,3 +35,8 @@ repositories:
       lf-staff: maintain
       otas-maintainers: maintain
     visibility: public
+  - name: cross-rail-dvp
+    teams:
+      lf-staff: maintain
+      otas-maintainers: maintain
+    visibility: public
